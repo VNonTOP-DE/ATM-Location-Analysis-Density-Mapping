@@ -102,8 +102,8 @@ atm-location-analysis/
 
 🗺️ Data Format
 The project expects CSV data with the following columns:
-ColumnDescriptionXX coordinate (State Plane)YY coordinate (State Plane)NAMEATM brand/nameADDRESSStreet addressZIPCODEZIP codeWARDAdministrative ward numberIDUnique identifier
-Note: Coordinates are automatically converted from NAD83 State Plane Maryland (EPSG:2893) to WGS84 (EPSG:4326).
+<img width="577" height="269" alt="image" src="https://github.com/user-attachments/assets/7d049a36-c890-493e-84fe-641ac10e50e9" />
+
 📈 Analysis Output Examples
 Ward Density Analysis
 ==================================================
